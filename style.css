@@ -1,0 +1,11 @@
+.element{
+    height: 100px;
+    width:100%;
+   background-color: grey;
+}
+.red{
+    background-color: crimson;
+}
+.yellow{
+    background-color: yellow;
+}
